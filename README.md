@@ -20,7 +20,7 @@ The GMT Team shall update the Steering Committee with timely reports. It has pro
 reasonable to provide these reports twice a year as a quarter is a bit too short to add
 much new material.
 
-* [October 2018](reports/2018-10.md)
+* [November 2018](reports/2018-11.md)
 * [March 2018](reports/2018-03.md)
 * [September 2017](reports/2017-09.md)
 * [March 2017](reports/2017-03.md)
