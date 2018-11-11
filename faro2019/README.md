@@ -4,4 +4,4 @@ Planning documents and reports for the 2019 Faro summit.
 
 ## Attendants
 
-TBD
+Joaquim Luis, Remko Scharroo, Walter Smith, Paul Wessel, Florian Wobbe, Leo Uieda
