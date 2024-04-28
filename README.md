@@ -5,7 +5,8 @@ and the project's [governance structure](governance.md)
 
 ## Updates
 
-* April 2024: Voting on a [Governance document](governance.md) and steering council membership.
+* May 2024 (expected): Voting on the [governance model](governance.md) and [Steering Committee membership](steering-committee-membership.md) updates.
+* April 2024: First proposal for a [governance model](governance.md).
 * March 2018: Louise Kellogg joined the Steering Committee.
 * August 2016: The initial Steering Committee was established as David Sandwell (Scripps, Chair), Dave Caress (MBARI), Steve Diggs (Scripps), Dan Bassett (GNS Science, New Zealand), Khalid Soofi (ConocoPhillips).
 
