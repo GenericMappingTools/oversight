@@ -72,9 +72,6 @@ In particular, the Committee may:
 * Make decisions about the overall scope, vision and direction of The Project.
 * Make decisions about strategic collaborations with other organizations or
   individuals.
-* Make decisions about specific technical issues, features, bugs and pull
-  requests. They are the primary mechanism of guiding the code review process and
-  merging pull requests.
 * Make decisions about the Services that are run by The Project and manage those
   Services for the benefit of The Project and Community.
 * Make decisions when regular Community discussion doesn’t produce consensus on
