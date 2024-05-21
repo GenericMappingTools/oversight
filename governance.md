@@ -140,25 +140,6 @@ Steering Committee members are expected to commit to the following activities:
 The chair of the Steering Committee is expected to arrange the regular meetings
 and ensure that a report is shared with the community.
 
-#### Conflict of Interest
-
-It is expected that Committee Members will be employed at a wide range of
-companies, universities and non-profit organizations. Because of this, it is
-possible that Members will have conflict of interests. Such conflict of
-interests include, but are not limited to:
-
-* Financial interests, such as investments, employment, or contracting work,
-  outside of The Project that may influence their work on The Project.
-* Access to proprietary information of their employer that could potentially
-  leak into their work with The Project.
-* An issue where the person privately gains an advantage from The Project
-  resources, but The Project has no gain or suffers a disadvantage.
-
-All Members of the Committee shall disclose to the rest of the Committee any
-conflict of interest they may have. Members with a conflict of interest in a
-particular issue may participate in Committee discussions on that issue, but must
-recuse themselves from voting on the issue.
-
 ## Changing the Governance Documents
 
 Changes to the governance documents are submitted via a GitHub pull request to
