@@ -89,10 +89,12 @@ take three different forms:
 
 To become eligible for being a Steering Committee Member an individual must be a
 Project Contributor who has produced contributions that are substantial in
-quality and quantity, and sustained over at least six months.
-After confirming the potential Committee Member is interested and willing to serve
-in that capacity, Members are nominated by Community Contributors and voted upon
-by the existing Committee via majority vote.
+quality and quantity, and sustained over at least six months. Project contributions
+can include contributions within the Generic Mapping Tools organization (e.g., GMT,
+GMT wrappers, GMT services) or to closely related upstream (e.g., GDAL) or
+downstream (e.g., GMTSAR, MB System) projects. After confirming the potential Committee
+Member is interested and willing to serve in that capacity, Members are nominated by
+Community Contributors and voted upon by the existing Committee via majority vote.
 
 When considering potential Members, the Committee will look at candidates with a
 comprehensive view of their contributions. This will include but is not limited
