@@ -80,7 +80,7 @@ Outcomes and decisions should be clearly communicated to the Community. This can
 take three different forms:
 
 * New challenges for The Project will be detailed as a GitHub discussion in the oversight
-  repository for the Community to discuss.
+  repository or a topic on the GMT Forum for the Community to discuss.
 * Resolved technical deadlocks will result in an explanation on the relevant
   issue and/or closure of the relevant pull request.
 * Other decisions will be detailed as a narrative blog post or announcement on the website.
