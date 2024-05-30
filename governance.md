@@ -90,7 +90,8 @@ take three different forms:
 
 To become eligible for being a Steering Committee Member an individual must be a
 Project Contributor who has produced contributions that are substantial in
-quality and quantity, and sustained over at least six months. Project contributions
+quality and quantity, and sustained over at least six months. Steering Committee Members should
+have a GitHub account to participate in discussions and document decisions. Project contributions
 can include contributions within the Generic Mapping Tools organization (e.g., GMT,
 GMT wrappers, GMT services) or to closely related upstream (e.g., GDAL) or
 downstream (e.g., GMTSAR, MB System) projects. After confirming the potential Committee
