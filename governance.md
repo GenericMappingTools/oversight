@@ -19,7 +19,8 @@ The Services run by The Project consist of public websites and web-services that
 are hosted under the generic-mapping-tools.org domain. Examples of Project Services
 include the Generic Mapping Tools website (https://www.generic-mapping-tools.org/),
 the Generic Mapping Tools data servers (listed at https://www.generic-mapping-tools.org/mirrors/),
-and the Generic Mapping Tools Discourse Forum (https://forum.generic-mapping-tools.org/).
+the Generic Mapping Tools Discourse Forum (https://forum.generic-mapping-tools.org/), and the
+PyGMT project domain (https://www.pygmt.org).
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed to code, code
