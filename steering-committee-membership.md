@@ -1,9 +1,5 @@
 # Steering Committee Membership
 
-The Generic Mapping Tools Steering Committee members are:
-
-- David Sandwell (Scripps) - Chair
-- Dave Caress (MBARI)
-- Steve Diggs (Scripps)
-- Dan Bassett (GNS Science, New Zealand)
-- Khalid Soofi (ConocoPhillips)
+With the creation of a formal governance structure, the Generic Mapping Tools Steering
+Committee with be re-constituted with membership decided by active project developers
+and previous core developers in June 2024.
