@@ -1,7 +1,7 @@
 # GMT Oversight
 
-Oversight documents for the Generic Mapping Tools, including a list of current [Steering Committee members](steering-committee-membership.md).
-and the project's [governance structure](governance.md)
+Oversight documents for the Generic Mapping Tools, including a list of current [Steering Committee members](steering-committee-membership.md)
+and the project's [governance structure](governance.md).
 
 ## Updates
 
