@@ -1,6 +1,7 @@
 # Steering Committee Membership
 
 The Generic Mapping Tools Steering Committee members are:
+
 - David Caress
 - Dongdong Tian
 - Federico Esteban
